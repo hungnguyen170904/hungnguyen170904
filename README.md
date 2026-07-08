@@ -30,24 +30,8 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hungnguyen170904&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000&title_color=667EEA&icon_color=6DD5FA&text_color=4b5563"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungnguyen170904&layout=compact&theme=algolia&hide_border=true&bg_color=00000000&title_color=667EEA&text_color=4b5563"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=hungnguyen170904&theme=algolia&hide_border=true&background=00000000&ring=6DD5FA&fire=B983FF&currStreakLabel=667EEA"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=hungnguyen170904&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
+<img src="https://img.shields.io/github/followers/hungnguyen170904?style=for-the-badge&color=6DD5FA&labelColor=667EEA&logo=github&logoColor=white&label=FOLLOWERS"/>
+<img src="https://img.shields.io/badge/-Open%20to%20Work-B983FF?style=for-the-badge&logoColor=white"/>
 
 </div>
 
