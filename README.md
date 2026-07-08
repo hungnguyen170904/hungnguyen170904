@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:6DD5FA,50:667EEA,100:B983FF&height=220&section=header&text=Hung%20Nguyen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,50:667EEA,100:B983FF&height=220&section=header&text=Hung%20Nguyen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=20"/>
 
 <br/>
 
 <a href="https://github.com/hungnguyen170904">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Building+cool+things+with+code;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub!;Building+cool+things+with+code;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -22,7 +22,7 @@
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,mysql,git,github,figma,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,mysql,git,github,vscode&theme=light" />
 
 </div>
 
@@ -37,7 +37,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hungnguyen170904&theme=algolia&hide_border=true&background=00000000&ring=6DD5FA&fire=B983FF&currStreakLabel=667EEA"/>
+<img src="https://streak-stats.demolab.com/?user=hungnguyen170904&theme=algolia&hide_border=true&background=00000000&ring=6DD5FA&fire=B983FF&currStreakLabel=667EEA"/>
 
 </div>
 
@@ -71,4 +71,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:B983FF,50:667EEA,100:6DD5FA&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B983FF,50:667EEA,100:6DD5FA&height=120&section=footer"/>
